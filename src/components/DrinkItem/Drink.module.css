@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "cyber";
+  src: url(../../fonts/Cyberverse.otf);
+}
+
+.description {
+  font-size: 1.2rem;
+}
+.card {
+  border: none;
+  background: none;
+}
+.body {
+  background-color: rgb(110, 110, 110);
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  text-align: center;
+}
+
+.title {
+  font-family: cyber;
+}
+.image:hover {
+  transform: scale(1.05);
+  transition: all ease 0.4s;
+}
+
+.but {
+  background-color: rgb(226, 43, 205);
+}

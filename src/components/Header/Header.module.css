@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "cyber";
+  src: url(../../fonts/Cyberverse.otf);
+}
+.header {
+  background-color: #232f33;
+}
+
+.header a {
+  color: rgb(255, 0, 179);
+  text-decoration: none;
+  font-family: "cyber", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.menuLink {
+  font-size: 2rem;
+  margin-left: 20px;
+}
+
+.menuLink span {
+  font-size: 1rem;
+  position: relative;
+  top: -17px;
+}
+
+.menuLink:hover {
+  color: beige;
+}
+
+

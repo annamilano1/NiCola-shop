@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "cyber";
+  src: url(../../fonts/Cyberverse.otf);
+}
+.banner {
+  background-color: #d5d5d5;
+}
+h1 {
+  font-family: "cyber";
+}
+h1 span {
+  color: rgba(250, 0, 200, 0.875);
+}
+.container {
+  max-width: 500px;
+}
+
+.image:hover {
+  transform: scale(1.05);
+  transition: all ease 0.4s;
+}
