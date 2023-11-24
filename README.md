@@ -7,7 +7,7 @@ Ho voluto provare a ricreare uno shop un po' diverso, con le lattine Nicola del 
 
 ## Link :
 
-[warming-warning-website](https://splendorous-crostata-b90872.netlify.app/)
+[Nicola-shop](https://splendorous-crostata-b90872.netlify.app/)
 
 
 
